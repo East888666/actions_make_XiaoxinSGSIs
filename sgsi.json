@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://east66.oss-cn-shenzhen.aliyuncs.com/MI8SE_East%40V12.0.1.0.QEBCNXM.zip",
-  "rom_name": "MI8SE_East@V12.0.1.0.QEBCNXM.zip",
-  "pack_sgsi": "MI8SE.7z",
+  "rom_url": "https://east66.oss-cn-shenzhen.aliyuncs.com/max3.zip",
+  "rom_name": "max3.zip",
+  "pack_sgsi": "MAX3.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
