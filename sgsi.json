@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://east66.oss-cn-shenzhen.aliyuncs.com/max3.zip",
-  "rom_name": "max3.zip",
-  "pack_sgsi": "MAX3.7z",
+  "rom_url": "https://east66.oss-cn-shenzhen.aliyuncs.com/MI8.zip",
+  "rom_name": "MI8.zip",
+  "pack_sgsi": "M8.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
