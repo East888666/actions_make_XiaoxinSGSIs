@@ -1,11 +1,11 @@
 {
-  "rom_url": "https://east66.oss-cn-shenzhen.aliyuncs.com/MIX3_East%40V12.0.1.0.QEECNXM.zip",
-  "rom_name": "MIX3_East@V12.0.1.0.QEECNXM.zip",
-  "pack_sgsi": "mix3.7z",
-  "make_miui": true,
+  "rom_url": "http://download.h2os.com/OnePlus6T/OPEN/OnePlus6THydrogen_41_OTA_065_all_2004012153_e3f97d69d2a64f69.zip",
+  "rom_name": "OnePlus6THydrogen_41_OTA_065_all_2004012153_e3f97d69d2a64f69.zip",
+  "pack_sgsi": "op6t.7z",
+  "make_miui": false,
   "make_flyme": false,
   "make_coloros": false,
-  "make_h2os": false,
+  "make_h2os": true,
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": false
