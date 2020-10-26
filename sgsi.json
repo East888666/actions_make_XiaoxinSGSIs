@@ -1,11 +1,11 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus6T/OPEN/OnePlus6THydrogen_41_OTA_065_all_2004012153_e3f97d69d2a64f69.zip",
-  "rom_name": "OnePlus6THydrogen_41_OTA_065_all_2004012153_e3f97d69d2a64f69.zip",
-  "pack_sgsi": "op6t.7z",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/note9/8.20.10.20/cn_daily/20201020004402/152f8539/update.zip",
+  "rom_name": "update.zip",
+  "pack_sgsi": "note9.7z",
   "make_miui": false,
-  "make_flyme": false,
+  "make_flyme": true,
   "make_coloros": false,
-  "make_h2os": true,
+  "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": false
